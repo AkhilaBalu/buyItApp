@@ -1,1 +1,1 @@
-# buyItApp
+# buyitApp
